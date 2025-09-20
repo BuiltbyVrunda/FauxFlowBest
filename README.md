@@ -91,4 +91,7 @@ FauxFlow is an interactive AI prototype that scans text, images, and videos to d
 ## Author
 - Vrunda C
 - GitHub: [BuiltbyVrunda](https://github.com/BuiltbyVrunda)
+- Prathiksha Holla
+- Github:[prathikshaholla](https://github.com/prathikshaholla)
+- 
 
